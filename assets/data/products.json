@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Xiaomi Kablosuz Kulaklık k Mijia Earclip Bluetooth5-3",
+        "explanation": "Gürültü engelleyici özellikli, yüksek ses kalitesi.",
+        "price": "1200 TL",
+        "image": "assets/images/kulaklik.png"
+    },
+    {
+        "name": "Xiaomi Redmi Watch 5 Active Akıllı Saat",
+        "explanation": "Su geçirmez, spor modlu ve kalp ritmi ölçer.",
+        "price": "2500 TL",
+        "image": "assets/images/saat.png"
+    },
+    {
+        "name": "Xiaomi Mi Mechanical Keyboard Wired 104 Full Keys Support Win/Mac OS",
+        "explanation": "RGB aydınlatmalı, sessiz switch oyuncu klavyesi.",
+        "price": "1800 TL",
+        "image": "assets/images/klavye.png"
+    },
+    {
+        "name": "Xiaomi Gaming Mouse Lite 72g RGB Ambient Light 5-speed",
+        "explanation": "Yüksek DPI hassasiyeti ve ergonomik tasarım.",
+        "price": "950 TL",
+        "image": "assets/images/mouse.png"
+    },
+    {
+        "name": "Soğutuculu Metal Laptop Standı 7 Kademeli, Işıklı, Ayarlanabilir, Taşıma Çantalı, Fanlı Tablet Stand",
+        "explanation": "Çift fanlı, ayarlanabilir yükseklik kademeli.",
+        "price": "600 TL",
+        "image": "assets/images/sogutucu.png"
+    },
+    {
+        "name": "Jual Xiaomi USB-C to VGA and Gigabit Ethernet Multi-Adapter",
+        "explanation": "USB 3.0 yüksek hızlı veri aktarımı.",
+        "price": "450 TL",
+        "image": "assets/images/hub.png"
+    },
+    {
+        "name": "Xiaomi Mi TV Webcam FHD Plug and Play Dual Far-field ",
+        "explanation": "1080p Full HD çözünürlük ve dahili mikrofon.",
+        "price": "1100 TL",
+        "image": "assets/images/kamera.png"
+    },
+    {
+        "name": "Xiaomi Mi Bluetooth Gold Mini Hoparlör",
+        "explanation": "Taşınabilir, güçlü bas ve uzun pil ömrü.",
+        "price": "1400 TL",
+        "image": "assets/images/hoparlor.png"
+    }
+]
